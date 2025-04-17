@@ -11,7 +11,7 @@ source /opt/ros/humble/setup.bash
 
 Clone the repo 
 ```bash
-git clone https://github.com/username/repo.git
+git clone https://github.com/shreyak-05/ENPM661_Project3_Phase2_part2.git
 ````
 Launch the ROS Node:
 Navigate to the Part02 directory and launch the ROS node using the provided launch file:
