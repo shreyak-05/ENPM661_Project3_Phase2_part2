@@ -11,7 +11,9 @@ source /opt/ros/humble/setup.bash
 
 Clone the repo 
 ```bash
-git clone https://github.com/shreyak-05/ENPM661_Project3_Phase2_part2.git
+cd ~/ros2_ws/src
+
+git clone https://github.com/shreyak-05/ENPM661_Project3_Phase2_part2.git astar_falcon_planner
 ````
 Launch the ROS Node:
 Navigate to the Part02 directory and launch the ROS node using the provided launch file:
