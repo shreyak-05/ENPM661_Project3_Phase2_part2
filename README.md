@@ -14,6 +14,10 @@ Clone the repo
 cd ~/ros2_ws/src
 
 git clone https://github.com/your‑username/ENPM661_Project3_Phase2_part2.git astar_falcon_planner
+
+colcon build
+
+source install/setup.bash
 ````
 Launch the ROS Node:
 Navigate to the Part02 directory and launch the ROS node using the provided launch file:
