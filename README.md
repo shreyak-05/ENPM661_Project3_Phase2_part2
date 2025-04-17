@@ -8,6 +8,11 @@ Make sure your ROS environment is properly set up by running the following comma
 ```bash
 source /opt/ros/humble/setup.bash
 ```
+
+Clone the repo 
+```bash
+git clone https://github.com/username/repo.git
+````
 Launch the ROS Node:
 Navigate to the Part02 directory and launch the ROS node using the provided launch file:
 ```bash
